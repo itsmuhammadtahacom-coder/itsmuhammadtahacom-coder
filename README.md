@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Taha 👋
 
-<!--
-**itsmuhammadtahacom-coder/itsmuhammadtahacom-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Strong fundamentals lead to long-term success."*
 
-Here are some ideas to get you started:
+I'm a **BS Computer Science student** focused on building solid programming foundations and real problem-solving skills — one concept at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Currently pursuing a BS in Computer Science
+- 💡 Passionate about **logic building**, **problem solving**, and **data analysis**
+- 🔄 Learning step by step to build real-world skills
+- 🤝 Open to collaboration and continuous improvement
+
+---
+
+## 🛠️ Skills & Learning
+
+| Area | Details |
+|------|---------|
+| **Primary Language** | C++ (Core focus) |
+| **Currently Learning** | Python for Data Analysis |
+| **Tools** | Git, GitHub, VS Code |
+| **Exploring** | Data Structures & Algorithms |
+
+---
+
+## 📂 Projects
+
+### 🔷 C++ Practice Programs
+A collection of programs covering core concepts, logic building, and problem solving in C++.
+
+### 🔷 Data Science Projects Collection
+A curated collection of data science projects involving data cleaning, analysis, visualization, and basic machine learning using real-world datasets.
+
+---
+
+## 🎯 Current Focus
+
+- ✅ Strengthening programming basics
+- ✅ Improving problem-solving skills
+- ✅ Building consistency in coding
+- ✅ Moving towards real-world projects
+
+---
+
+## 📬 Connect with Me
+
+Feel free to connect with me
+itsmuhammadtaha.com@gmail.com
+www.linkedin.com/in/muhammad-taha-10351a37a
+
+---
+
+*Thanks for visiting my profile! I believe in hard work, consistency, and facing reality.* 🚀
